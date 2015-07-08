@@ -10,6 +10,8 @@
 	<string>Giftkoeder</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>1EB24367D8C3C296D57E764682CA9245108938FD</key>
+		<string>https://github.com/fischerl/giftkoeder.git</string>
 		<key>3F8C47BA7275CAFBFF51238F2024AA8837A88C40</key>
 		<string>https://github.com/fischerl/giftkoeder.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>Giftkoeder.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3F8C47BA7275CAFBFF51238F2024AA8837A88C40</key>
+		<key>1EB24367D8C3C296D57E764682CA9245108938FD</key>
 		<string>..</string>
+		<key>3F8C47BA7275CAFBFF51238F2024AA8837A88C40</key>
+		<string>../../Desktop/dogguard</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/fischerl/giftkoeder.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3F8C47BA7275CAFBFF51238F2024AA8837A88C40</string>
+	<string>1EB24367D8C3C296D57E764682CA9245108938FD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EB24367D8C3C296D57E764682CA9245108938FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dogguard</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
